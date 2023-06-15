@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+    <id>234534</id>
+    <name>John</name>
+    <surname>Smith</surname>
+    <birthdate>2012-04-23</birthdate>
+    <gpa>78.3</gpa>
+    <entry_year></entry_year>
+    <scholarship>false</scholarship>
+    <contact_info>
+        <email>mylo@gmail.com</email>
+        <number>+380501111111</number>
+    </contact_info>
+    <taken_classes>
+        <class title="Math" teacher="April Tompson" />
+        <class title="History" teacher="Indiana Johns" />
+        <class title="Art" teacher="Clod Mone" />
+    </taken_classes>
+    <hobbies>
+        <hobby>tennis</hobby>
+        <hobby>chess</hobby>
+        <hobby>hiking</hobby>
+    </hobbies>
+</student>
