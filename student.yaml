@@ -1,0 +1,17 @@
+--- # student
+id: 234534
+name: John
+surname: Smith
+birthdate: "2012-04-23"
+gpa: 78.3
+entry_year: null
+scholarship: False
+contact_info: {email: mylo@gmail.com, number: "+380501111111"}
+taken_classes:
+  - title: Math
+    teacher: April Tompson
+  - title: History
+    teacher: Indiana Johns
+  - title: Art
+    teacher: Clod Mone
+hobbies: [tennis, chess, hiking]
